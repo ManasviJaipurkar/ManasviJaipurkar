@@ -10,7 +10,7 @@
 I'm Manasvi, a passionate Data Science student with a solid foundation in **Machine Learning, Deep Learning, and Computer Vision**. I love transforming real-world problems into data-driven solutions using advanced technologies.
 
 ### 🌟 About Me  
-- 🎓 **B.Tech in Data Science (2020 - 2024)** from G.H.Raisoni College of Engineering, Nagpur  
+- 🎓 **B.Tech in Data Science** from G.H.Raisoni College of Engineering, Nagpur  
 - 👩‍🔬 Internships in **Data Analytics & Computer Vision**  
 - 💻 Focused on **GenAI**, **Medical image analysis**, **Disease prediction models**, and **AI-powered automation**  
 - 📊 Skilled in **Data Visualization** with tools like **Power BI** and **Tableau**
