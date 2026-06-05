@@ -11,7 +11,7 @@ I'm Manasvi, a passionate Data Science student with a solid foundation in **Mach
 
 ### 🌟 About Me  
 - 🎓 **B.Tech in Data Science** from G.H.Raisoni College of Engineering, Nagpur
--  🎓 **M.Tech in Modeling and Simulation** Savitribai Phule Pune University, Pune
+-  🎓 **M.Tech in Modeling and Simulation** from Savitribai Phule Pune University, Pune
 - 👩‍🔬 Internships in **Data Analytics & Computer Vision**  
 - 💻 Focused on **GenAI**, **Medical image analysis**, **Disease prediction models**, and **AI-powered automation**  
 - 📊 Skilled in **Data Visualization** with tools like **Power BI** and **Tableau**
