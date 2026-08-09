@@ -31,7 +31,7 @@ I'm Manasvi, a passionate Data Science student with a solid foundation in **Mach
 
 
 ### 🛠️ Skills & Tools  
-- **Languages:** Python, SQL, PL/SQL, R  
+- **Languages:** Python, SQL  
 - **Data Science:** Machine Learning, Deep Learning, NLP, Computer Vision, LangGraph  
 - **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn  
 - **Data Visualization:** Tableau, Power BI  
