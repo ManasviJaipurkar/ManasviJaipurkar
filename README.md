@@ -6,7 +6,8 @@
 
 ---
 
-### Welcome to my GitHub Profile! 👋  
+### Welcome to my GitHub Profile! 👋
+
 I'm Manasvi, a passionate Data Science student with a solid foundation in **Machine Learning, Deep Learning, and Computer Vision**. I love transforming real-world problems into data-driven solutions using advanced technologies.
 
 ### 🌟 About Me  
